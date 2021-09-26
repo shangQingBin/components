@@ -1,0 +1,19 @@
+字段                类型            说明            是否必填
+
+taskName	    String	    任务名称            否
+
+initColor	    String	    初始背景颜色        否
+
+fontColor	    String	    文字显示颜色	否
+
+fontSize	    String	    文字显示大小        否
+
+speedWidth	    String	    进度条宽度          否
+
+indexKey	    Number	    进度条索引	        是
+
+backColor	    String	    加载背景颜色	否
+
+loadColor	    String	    完成度颜色	        否
+
+speedLoading	    Number	    进度条完成度        是
